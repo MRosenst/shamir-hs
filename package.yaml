@@ -2,9 +2,9 @@ name:                shamir-hs
 version:             0.1.0.0
 github:              "githubuser/shamir-hs"
 license:             BSD3
-author:              "Author name here"
-maintainer:          "example@example.com"
-copyright:           "2019 Author name here"
+author:              "Max Rosenstein"
+maintainer:          "mrosenstein99@gmail.com"
+copyright:           "2019 Max Rosenstein"
 
 extra-source-files:
 - README.md
