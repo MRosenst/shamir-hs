@@ -10,5 +10,5 @@ main = do
     threshold <- readLn
     putStrLn "Enter number of code fragments:"
     n <- readLn
-    fragments <- splitCode code threshold 
-    print $ take n fragments
+    fragments' <- fragments <$> splitCode code threshold 
+    print $ take n fragments'
